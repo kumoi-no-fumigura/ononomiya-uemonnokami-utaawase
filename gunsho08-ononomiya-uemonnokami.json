@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ononomiya-uemonnokami-utaawase",
  "yomi": "おののみやうえもんのかみけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（謎合）",
+  "era": "平安中期",
+  "author": "小野宮右衛門督家",
+  "desc": "小野宮右衛門督の子息たちの物語から始まった謎合。左右が謎を歌に詠んで出し合い、解けるかどうかで勝負を決める。"
+ },
  "editions": [
   {
    "pid": "1879502",
